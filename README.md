@@ -10,7 +10,9 @@ Given 3 numbers, determines what type of triangle the numbers make, if any at al
 
 ## Setup/Installation Requirements
 
-??? (haven't learnt this yet)
+Clone this repo to your PC.
+Open it up in an IDE of your choice and open the terminal and navigate to the directory of the main project (`cd  "[where you stored project]\TriangleTracker.Solution\TriangleTracker"`).
+Then in terminal, run the command `dotnet run`.
 
 ## Specs
 
